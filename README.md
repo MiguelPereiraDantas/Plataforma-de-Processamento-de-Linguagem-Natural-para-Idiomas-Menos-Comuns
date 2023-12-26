@@ -1,0 +1,1 @@
+# Plataforma-de-Processamento-de-Linguagem-Natural-para-Idiomas-Menos-Comuns
