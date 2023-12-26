@@ -19,7 +19,7 @@ python -m nltk.downloader punkt stopwords
 2. Baixe o modelo spaCy para o idioma desejado. Substitua 'spacy.load('fr_core_news_sm')' pelo código do idioma desejado.
 
 ```bash
-python -m spacy download xx
+python -m spacy download fr_core_news_sm
 ```
 3. Execute o script principal:
 ```bash
